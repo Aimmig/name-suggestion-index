@@ -1592,6 +1592,17 @@
       }
     },
     {
+      "displayName": "Pittarello",
+      "id": "pittarello-737b50",
+      "locationSet": {"include": ["at", "it"]},
+      "tags": {
+        "brand": "Pittarello",
+        "brand:wikidata": "Q140305792",
+        "name": "Pittarello",
+        "shop": "shoes"
+      }
+    },
+    {
       "displayName": "PittaRosso",
       "id": "pittarosso-6005fb",
       "locationSet": {
