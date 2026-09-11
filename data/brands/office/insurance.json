@@ -414,6 +414,18 @@
       }
     },
     {
+      "displayName": "Aréas Assurances",
+      "id": "areasassurances-6ae572",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Aréas Assurances",
+        "brand:short": "Aréas",
+        "brand:wikidata": "Q126901086",
+        "name": "Aréas Assurances",
+        "office": "insurance"
+      }
+    },
+    {
       "displayName": "ARX",
       "id": "arx-43aba6",
       "locationSet": {"include": ["ua"]},
@@ -1914,6 +1926,19 @@
       }
     },
     {
+      "displayName": "MGEN",
+      "id": "mgen-6ae572",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "MGEN",
+        "brand:wikidata": "Q3331039",
+        "insurance": "health",
+        "name": "MGEN",
+        "office": "insurance",
+        "official_name": "Mutuelle générale de l'Éducation nationale"
+      }
+    },
+    {
       "displayName": "Missouri Farm Bureau Insurance",
       "id": "missourifarmbureauinsurance-2b3a0f",
       "locationSet": {
@@ -2037,6 +2062,17 @@
         "name": "NN",
         "office": "insurance",
         "official_name": "Nationale-Nederlanden"
+      }
+    },
+    {
+      "displayName": "NN Slovensko",
+      "id": "nnslovensko-780b74",
+      "locationSet": {"include": ["sk"]},
+      "tags": {
+        "brand": "NN Slovensko",
+        "brand:wikidata": "Q140378076",
+        "name": "NN Slovensko",
+        "office": "insurance"
       }
     },
     {

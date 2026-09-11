@@ -333,6 +333,18 @@
       }
     },
     {
+      "displayName": "Doctor Optic",
+      "id": "doctoroptic-892407",
+      "locationSet": {"include": ["cz", "sk"]},
+      "matchNames": ["doctor optik", "dr. optik"],
+      "tags": {
+        "brand": "Doctor Optic",
+        "brand:wikidata": "Q140307589",
+        "name": "Doctor Optic",
+        "shop": "optician"
+      }
+    },
+    {
       "displayName": "Écouter Voir",
       "id": "ecoutervoir-0a39a3",
       "locationSet": {"include": ["fx"]},
@@ -397,13 +409,39 @@
       }
     },
     {
+      "displayName": "eyewa",
+      "id": "eyewa-e7f237",
+      "locationSet": {
+        "include": [
+          "ae",
+          "bh",
+          "kw",
+          "om",
+          "qa",
+          "sa"
+        ]
+      },
+      "matchNames": ["ايوا"],
+      "tags": {
+        "brand": "eyewa",
+        "brand:ar": "أيوا",
+        "brand:en": "eyewa",
+        "brand:wikidata": "Q141129902",
+        "name": "eyewa",
+        "name:ar": "أيوا",
+        "name:en": "eyewa",
+        "shop": "optician"
+      }
+    },
+    {
       "displayName": "Fielmann",
-      "id": "fielmann-f932c9",
+      "id": "fielmann-eb871f",
       "locationSet": {
         "include": [
           "at",
           "by",
           "ch",
+          "cz",
           "de",
           "it",
           "lt",
@@ -716,6 +754,17 @@
       }
     },
     {
+      "displayName": "Lunettes Pour Tous",
+      "id": "lunettespourtous-648011",
+      "locationSet": {"include": ["be", "fx"]},
+      "tags": {
+        "brand": "Lunettes Pour Tous",
+        "brand:wikidata": "Q60964944",
+        "name": "Lunettes Pour Tous",
+        "shop": "optician"
+      }
+    },
+    {
       "displayName": "Lynx Optique",
       "id": "lynxoptique-8cd79e",
       "locationSet": {"include": ["fr"]},
@@ -758,6 +807,18 @@
         "brand": "McOptic",
         "brand:wikidata": "Q1915328",
         "name": "McOptic",
+        "shop": "optician"
+      }
+    },
+    {
+      "displayName": "Mellins",
+      "id": "mellins-e98572",
+      "locationSet": {"include": ["za"]},
+      "matchNames": ["mellins i.style"],
+      "tags": {
+        "brand": "Mellins",
+        "brand:wikidata": "Q140695860",
+        "name": "Mellins",
         "shop": "optician"
       }
     },
@@ -834,6 +895,17 @@
         "brand": "NAU!",
         "brand:wikidata": "Q122148631",
         "name": "NAU!",
+        "shop": "optician"
+      }
+    },
+    {
+      "displayName": "Neovision",
+      "id": "neovision-e98572",
+      "locationSet": {"include": ["za"]},
+      "tags": {
+        "brand": "Neovision",
+        "brand:wikidata": "Q141253662",
+        "name": "Neovision",
         "shop": "optician"
       }
     },
@@ -1211,12 +1283,11 @@
     },
     {
       "displayName": "Ray-Ban",
-      "id": "rayban-ace229",
+      "id": "rayban-58de3f",
       "locationSet": {
         "include": [
           "ae",
           "at",
-          "au",
           "br",
           "ca",
           "de",
@@ -1480,6 +1551,26 @@
         "brand": "Thiele",
         "brand:wikidata": "Q12339176",
         "name": "Thiele",
+        "shop": "optician"
+      }
+    },
+    {
+      "displayName": "Torga Optical",
+      "id": "torgaoptical-7d9017",
+      "locationSet": {
+        "include": [
+          "au",
+          "ie",
+          "ls",
+          "na",
+          "sz",
+          "za"
+        ]
+      },
+      "tags": {
+        "brand": "Torga Optical",
+        "brand:wikidata": "Q140698453",
+        "name": "Torga Optical",
         "shop": "optician"
       }
     },

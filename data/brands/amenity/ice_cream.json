@@ -374,6 +374,17 @@
       }
     },
     {
+      "displayName": "Glaces Moustache",
+      "id": "glacesmoustache-279c9d",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Glaces Moustache",
+        "brand:wikidata": "Q112202767",
+        "name": "Glaces Moustache"
+      }
+    },
+    {
       "displayName": "Good Lood",
       "id": "goodlood-944e1d",
       "locationSet": {"include": ["pl"]},
@@ -878,8 +889,8 @@
     },
     {
       "displayName": "Rita's Italian Ice",
-      "id": "ritasitalianice-8697a4",
-      "locationSet": {"include": ["us"]},
+      "id": "ritasitalianice-a24275",
+      "locationSet": {"include": ["ph", "us"]},
       "matchNames": [
         "rita's italian ice & frozen custard",
         "ritas",
@@ -1127,6 +1138,20 @@
         "brand:wikidata": "Q7982571",
         "name": "Wendy's Milk Bar",
         "short_name": "Wendy's"
+      }
+    },
+    {
+      "displayName": "Yo-Chi",
+      "id": "yochi-acda49",
+      "locationSet": {
+        "include": ["au", "gb-eng", "sg"]
+      },
+      "tags": {
+        "amenity": "ice_cream",
+        "brand": "Yo-Chi",
+        "brand:wikidata": "Q138569799",
+        "cuisine": "frozen_yogurt",
+        "name": "Yo-Chi"
       }
     },
     {

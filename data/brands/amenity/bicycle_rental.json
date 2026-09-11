@@ -11,6 +11,34 @@
   },
   "items": [
     {
+      "displayName": "nextbike (Česko)",
+      "locationSet": {
+        "include": ["cz"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "nextbike",
+        "brand:wikidata": "Q2351279",
+        "operator": "nextbike Czech Republic",
+        "operator:type": "private",
+        "operator:wikidata": "Q88977496"
+      }
+    },
+    {
+      "displayName": "nextbike (Slovensko)",
+      "locationSet": {
+        "include": ["sk"]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "nextbike",
+        "brand:wikidata": "Q2351279",
+        "operator": "nextbike Slovakia",
+        "operator:type": "private",
+        "operator:wikidata": "Q141402439"
+      }
+    },
+    {
       "displayName": "[TO]BIKE",
       "id": "tobike-a9bfcc",
       "locationSet": {
@@ -2043,8 +2071,12 @@
     },
     {
       "displayName": "IDEcycle",
-      "id": "idecycle-d06f5d",
-      "locationSet": {"include": ["fx"]},
+      "id": "idecycle-4fb111",
+      "issues": [12496],
+      "locationSet": {
+        "include": [[-0.37, 43.29]]
+      },
+      "note": "Pau, France",
       "tags": {
         "amenity": "bicycle_rental",
         "brand": "IDEcycle",
@@ -2497,6 +2529,22 @@
       }
     },
     {
+      "displayName": "Evolve E-Bike Share",
+      "locationSet": {
+        "include": [
+          "ca-bc.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "Evolve",
+        "brand:wikidata": "Q137825732",
+        "fee": "yes",
+        "operator": "Evo Car Share",
+        "operator:wikidata": "Q26553214"
+      }
+    },
+    {
       "displayName": "Lyft Bike",
       "id": "lyftbike-94cb92",
       "locationSet": {
@@ -2581,9 +2629,9 @@
         "brand:wikidata": "Q62104274",
         "network": "metropolradruhr",
         "network:wikidata": "Q62104274",
-        "operator": "Nextbike",
+        "operator": "Donkey Republic",
         "operator:type": "private",
-        "operator:wikidata": "Q2351279"
+        "operator:wikidata": "Q63753939"
       }
     },
     {
@@ -2608,9 +2656,13 @@
     },
     {
       "displayName": "Métrovélo",
-      "id": "metrovelo-d06f5d",
-      "locationSet": {"include": ["fx"]},
+      "id": "metrovelo-c1c12c",
+      "issues": [12497],
+      "locationSet": {
+        "include": [[5.733, 45.182]]
+      },
       "matchNames": ["métrovélobox"],
+      "note": "Grenoble, France",
       "tags": {
         "amenity": "bicycle_rental",
         "brand": "Métrovélo",

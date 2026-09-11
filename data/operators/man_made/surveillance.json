@@ -258,7 +258,6 @@
       "matchNames": [
         "aldi australia",
         "aldi süd",
-        "aldi suisse",
         "aldi uk",
         "aldi usa"
       ],
@@ -295,6 +294,16 @@
         "man_made": "surveillance",
         "operator": "Aldi Süd",
         "operator:wikidata": "Q41171672"
+      }
+    },
+    {
+      "displayName": "Aldi Suisse",
+      "id": "aldisuisse-6a6eac",
+      "locationSet": {"include": ["ch"]},
+      "tags": {
+        "man_made": "surveillance",
+        "operator": "Aldi Suisse",
+        "operator:wikidata": "Q111030009"
       }
     },
     {
@@ -5116,7 +5125,8 @@
       },
       "tags": {
         "man_made": "surveillance",
-        "operator": "Městská policie Klatovy"
+        "operator": "Městská policie Klatovy",
+        "operator:wikidata": "Q139604433"
       }
     },
     {
@@ -7535,10 +7545,8 @@
     },
     {
       "displayName": "SBD Mír",
-      "id": "sbdmir-0bf588",
-      "locationSet": {
-        "include": ["cz-42.geojson"]
-      },
+      "id": "sbdmir-9c1a6c",
+      "locationSet": {"include": ["001"]},
       "tags": {
         "man_made": "surveillance",
         "operator": "SBD Mír"
@@ -8180,6 +8188,19 @@
         "man_made": "surveillance",
         "operator": "Statens vegvesen",
         "operator:wikidata": "Q1468793"
+      }
+    },
+    {
+      "displayName": "Stavební bytové družstvo Mír Teplice",
+      "id": "stavebnibytovedruzstvomirteplice-0bf588",
+      "locationSet": {
+        "include": ["cz-42.geojson"]
+      },
+      "tags": {
+        "man_made": "surveillance",
+        "operator": "Stavební bytové družstvo Mír Teplice",
+        "operator:short": "SBD Mír Teplice",
+        "operator:wikidata": "Q67803199"
       }
     },
     {

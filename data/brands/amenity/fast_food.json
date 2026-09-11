@@ -1574,6 +1574,19 @@
       }
     },
     {
+      "displayName": "Burrito Madre",
+      "id": "burritomadre-01a807",
+      "locationSet": {"include": ["rs"]},
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Burrito Madre",
+        "brand:wikidata": "Q141191958",
+        "cuisine": "mexican",
+        "name": "Burrito Madre",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "Bush's Chicken",
       "id": "bushschicken-1e257d",
       "locationSet": {
@@ -2510,6 +2523,20 @@
       }
     },
     {
+      "displayName": "Crousty Game",
+      "id": "croustygame-763869",
+      "locationSet": {"include": ["be", "fr"]},
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Crousty Game",
+        "brand:wikidata": "Q141144016",
+        "cuisine": "chicken",
+        "diet:halal": "only",
+        "name": "Crousty Game",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "Crust",
       "id": "crust-d43c69",
       "locationSet": {"include": ["au"]},
@@ -2818,6 +2845,22 @@
       }
     },
     {
+      "displayName": "Dodo Pizza",
+      "id": "dodopizza-545f07",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["by", "ge", "kz", "ru"]
+      },
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Dodo Pizza",
+        "brand:wikidata": "Q61949318",
+        "cuisine": "pizza",
+        "name": "Dodo Pizza",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "Dog Haus",
       "id": "doghaus-4d2ff4",
       "locationSet": {"include": ["us"]},
@@ -2949,8 +2992,8 @@
     },
     {
       "displayName": "Doughnut Time",
-      "id": "doughnuttime-1abd07",
-      "locationSet": {"include": ["gb-eng"]},
+      "id": "doughnuttime-f0727d",
+      "locationSet": {"include": ["de", "gb"]},
       "tags": {
         "amenity": "fast_food",
         "brand": "Doughnut Time",
@@ -3110,6 +3153,19 @@
         "brand:wikidata": "Q5329751",
         "cuisine": "pizza",
         "name": "East of Chicago Pizza",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Eat Salad",
+      "id": "eatsalad-11ef38",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Eat Salad",
+        "brand:wikidata": "Q141214255",
+        "cuisine": "salad",
+        "name": "Eat Salad",
         "takeaway": "yes"
       }
     },
@@ -3299,6 +3355,21 @@
         "brand:wikidata": "Q15291092",
         "cuisine": "burger",
         "name": "Elevation Burger",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Enjoy Tacos",
+      "id": "enjoytacos-fc5c6c",
+      "locationSet": {
+        "include": ["bg", "fr", "ma", "pt"]
+      },
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Enjoy Tacos",
+        "brand:wikidata": "Q141242529",
+        "cuisine": "french_tacos",
+        "name": "Enjoy Tacos",
         "takeaway": "yes"
       }
     },
@@ -3722,7 +3793,7 @@
     },
     {
       "displayName": "Five Guys",
-      "id": "fiveguys-f701a8",
+      "id": "fiveguys-f26f5c",
       "locationSet": {
         "include": [
           "ae",
@@ -3731,16 +3802,19 @@
           "be",
           "bh",
           "ca",
+          "ch",
           "cn",
           "de",
           "es",
           "fr",
           "gb",
+          "hk",
           "ie",
           "it",
           "kr",
           "kw",
           "lu",
+          "mo",
           "my",
           "nl",
           "qa",
@@ -3943,6 +4017,27 @@
         "cuisine": "mexican",
         "name": "Freebirds",
         "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Fresh Corner Restaurant",
+      "locationSet": {
+        "include": [
+          "cz",
+          "hr",
+          "hu",
+          "pl",
+          "ro",
+          "rs",
+          "sk"
+        ]
+      },
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Fresh Corner Restaurant",
+        "brand:wikidata": "Q129256375",
+        "fast_food": "cafeteria",
+        "name": "Fresh Corner Restaurant"
       }
     },
     {
@@ -4357,6 +4452,19 @@
         "cuisine": "burger",
         "name": "Gourmet Burger Kitchen",
         "short_name": "GBK",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Grab&Go",
+      "id": "grabandgo-1fab0a",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Grab&Go",
+        "brand:wikidata": "Q140792140",
+        "cuisine": "pizza",
+        "name": "Grab&Go",
         "takeaway": "yes"
       }
     },
@@ -5227,7 +5335,7 @@
       "displayName": "Jersey Mike's Subs",
       "id": "jerseymikessubs-53d9d9",
       "locationSet": {
-        "include": ["ca", "mx", "us"]
+        "include": ["ca", "gb-eng", "mx", "us"]
       },
       "tags": {
         "amenity": "fast_food",
@@ -8402,10 +8510,10 @@
     },
     {
       "displayName": "Pizza Hut Delivery",
-      "id": "pizzahutdelivery-e0c6c1",
+      "id": "pizzahutdelivery-8b0e85",
       "locationSet": {
         "include": ["001"],
-        "exclude": ["fr", "gb"]
+        "exclude": ["fr", "gb", "kr"]
       },
       "tags": {
         "amenity": "fast_food",
@@ -8433,8 +8541,11 @@
     },
     {
       "displayName": "Pizza Hut Express",
-      "id": "pizzahutexpress-658eea",
-      "locationSet": {"include": ["001"]},
+      "id": "pizzahutexpress-165c34",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["kr"]
+      },
       "tags": {
         "amenity": "fast_food",
         "brand": "Pizza Hut",
@@ -8607,6 +8718,19 @@
         "brand:wikidata": "Q7199979",
         "cuisine": "pizza",
         "name": "Pizza Schmizza",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Pizza Time",
+      "id": "pizzatime-11ef38",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Pizza Time",
+        "brand:wikidata": "Q134879021",
+        "cuisine": "pizza",
+        "name": "Pizza Time",
         "takeaway": "yes"
       }
     },
@@ -9284,6 +9408,19 @@
         "brand:wikidata": "Q123034964",
         "cuisine": "burger",
         "name": "RocoGo",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Rodeo Doughnuts",
+      "id": "rodeodoughnuts-1abd07",
+      "locationSet": {"include": ["gb-eng"]},
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Rodeo Doughnuts",
+        "brand:wikidata": "Q140723445",
+        "cuisine": "donut",
+        "name": "Rodeo Doughnuts",
         "takeaway": "yes"
       }
     },
@@ -10736,9 +10873,16 @@
     },
     {
       "displayName": "Tasty Crousty",
-      "id": "tastycrousty-863c99",
+      "id": "tastycrousty-301a36",
       "locationSet": {
-        "include": ["be", "dz", "fx"]
+        "include": [
+          "be",
+          "ca",
+          "dz",
+          "fr",
+          "gb",
+          "ma"
+        ]
       },
       "tags": {
         "amenity": "fast_food",
@@ -11649,6 +11793,21 @@
       }
     },
     {
+      "displayName": "Waffle Factory",
+      "id": "wafflefactory-d89bff",
+      "locationSet": {
+        "include": ["be", "fr", "ma"]
+      },
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Waffle Factory",
+        "brand:wikidata": "Q105426923",
+        "cuisine": "waffle",
+        "name": "Waffle Factory",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "Wahoo's Fish Taco",
       "id": "wahoosfishtaco-4d2ff4",
       "locationSet": {"include": ["us"]},
@@ -11711,10 +11870,10 @@
     },
     {
       "displayName": "Wendy's",
-      "id": "wendys-01b047",
+      "id": "wendys-62629e",
       "locationSet": {
         "include": ["001"],
-        "exclude": ["au", "ge", "jp"]
+        "exclude": ["ge", "jp"]
       },
       "tags": {
         "amenity": "fast_food",
@@ -12109,6 +12268,24 @@
         "brand:wikidata": "Q8051689",
         "cuisine": "pizza",
         "name": "Yellow Cab Pizza",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Yogis Grill",
+      "id": "yogisgrill-2b51a7",
+      "locationSet": {
+        "include": [
+          "us-az.geojson",
+          "us-ca.geojson"
+        ]
+      },
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Yogis Grill",
+        "brand:wikidata": "Q141105451",
+        "cuisine": "japanese",
+        "name": "Yogis Grill",
         "takeaway": "yes"
       }
     },
@@ -13622,6 +13799,27 @@
       }
     },
     {
+      "displayName": "피자헛",
+      "id": "pizzahut-c56583",
+      "locationSet": {"include": ["kr"]},
+      "matchNames": [
+        "pizza hut delivery",
+        "pizza hut express"
+      ],
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "피자헛",
+        "brand:en": "Pizza Hut",
+        "brand:ko": "피자헛",
+        "brand:wikidata": "Q191615",
+        "cuisine": "pizza",
+        "name": "피자헛",
+        "name:en": "Pizza Hut",
+        "name:ko": "피자헛",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "홍루이젠",
       "id": "horngrueyjensandwich-c56583",
       "locationSet": {"include": ["kr"]},
@@ -13724,7 +13922,7 @@
         "brand:en": "Katsuya",
         "brand:ja": "かつや",
         "brand:wikidata": "Q2855257",
-        "cuisine": "fried_food",
+        "cuisine": "tonkatsu",
         "name": "かつや",
         "name:en": "Katsuya",
         "name:ja": "かつや",
@@ -14284,7 +14482,7 @@
         "brand:en": "Yudetaro",
         "brand:ja": "ゆで太郎",
         "brand:wikidata": "Q11280824",
-        "cuisine": "noodle",
+        "cuisine": "soba",
         "name": "ゆで太郎",
         "name:en": "Yudetaro",
         "name:ja": "ゆで太郎",
@@ -14426,7 +14624,7 @@
         "brand:ja": "丸亀製麺",
         "brand:wikidata": "Q10877253",
         "brand:zh": "丸亀製麵",
-        "cuisine": "noodle",
+        "cuisine": "udon",
         "name": "丸亀製麺",
         "name:en": "Marugame Seimen",
         "name:ja": "丸亀製麺",
@@ -15225,6 +15423,27 @@
         "name": "杵屋麦丸",
         "name:en": "Kineya Mugimaru",
         "name:ja": "杵屋麦丸",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "松のや",
+      "id": "matsunoya-3e7699",
+      "locationSet": {"include": ["jp"]},
+      "matchNames": ["松乃家"],
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "松のや",
+        "brand:en": "Matsunoya",
+        "brand:ja": "松のや",
+        "brand:wikidata": "Q88183443",
+        "cuisine": "tonkatsu",
+        "name": "松のや",
+        "name:en": "Matsunoya",
+        "name:ja": "松のや",
+        "operator": "松屋フーズ",
+        "operator:en": "Matsuya Foods",
+        "operator:ja": "松屋フーズ",
         "takeaway": "yes"
       }
     },

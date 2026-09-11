@@ -399,6 +399,17 @@
       }
     },
     {
+      "displayName": "Classic Collision",
+      "id": "classiccollision-878d90",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Classic Collision",
+        "brand:wikidata": "Q122760989",
+        "name": "Classic Collision",
+        "shop": "car_repair"
+      }
+    },
+    {
       "displayName": "Cockpit",
       "id": "cockpit-fdc83e",
       "locationSet": {"include": ["jp", "th"]},
@@ -629,6 +640,18 @@
         "brand": "Glasfit",
         "brand:wikidata": "Q126981121",
         "name": "Glasfit",
+        "service:vehicle:glass": "yes",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "displayName": "GlassAuto",
+      "id": "glassauto-98e3a2",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "GlassAuto",
+        "brand:wikidata": "Q131983594",
+        "name": "GlassAuto",
         "service:vehicle:glass": "yes",
         "shop": "car_repair"
       }

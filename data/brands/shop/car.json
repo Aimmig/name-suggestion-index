@@ -378,12 +378,36 @@
       }
     },
     {
+      "displayName": "Defender",
+      "id": "defender-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Defender",
+        "brand:wikidata": "Q140645257",
+        "name": "Defender",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "Discovery",
+      "id": "discovery-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Discovery",
+        "brand:wikidata": "Q140645228",
+        "name": "Discovery",
+        "shop": "car"
+      }
+    },
+    {
       "displayName": "Distinxion",
       "id": "distinxion-9ceb2b",
       "locationSet": {"include": ["fx"]},
       "tags": {
         "brand": "Distinxion",
+        "brand:wikidata": "Q141160707",
         "name": "Distinxion",
+        "service:vehicle:used_car_sales": "only",
         "shop": "car"
       }
     },
@@ -436,11 +460,12 @@
     },
     {
       "displayName": "Ewigo",
-      "id": "ewigo-9ceb2b",
-      "locationSet": {"include": ["fx"]},
+      "id": "ewigo-afa90b",
+      "locationSet": {"include": ["fr"]},
       "tags": {
-        "brand": "Ewigo",
+        "brand": "Q141159741",
         "name": "Ewigo",
+        "service:vehicle:used_car_sales": "only",
         "shop": "car"
       }
     },
@@ -1173,6 +1198,17 @@
       }
     },
     {
+      "displayName": "Range Rover",
+      "id": "rangerover-13eeb7",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Range Rover",
+        "brand:wikidata": "Q140685136",
+        "name": "Range Rover",
+        "shop": "car"
+      }
+    },
+    {
       "displayName": "Renault",
       "id": "renault-13eeb7",
       "locationSet": {"include": ["001"]},
@@ -1432,6 +1468,18 @@
         "brand": "We Buy Any Car",
         "brand:wikidata": "Q7977432",
         "name": "We Buy Any Car",
+        "shop": "car"
+      }
+    },
+    {
+      "displayName": "WeBuyCars",
+      "id": "webuycars-008ed7",
+      "locationSet": {"include": ["za"]},
+      "tags": {
+        "brand": "WeBuyCars",
+        "brand:wikidata": "Q135910440",
+        "name": "WeBuyCars",
+        "second_hand": "only",
         "shop": "car"
       }
     },

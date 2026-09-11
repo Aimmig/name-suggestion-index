@@ -29,6 +29,17 @@
       }
     },
     {
+      "displayName": "Agrimark",
+      "id": "agrimark-ed1376",
+      "locationSet": {"include": ["za"]},
+      "tags": {
+        "brand": "Agrimark",
+        "brand:wikidata": "Q141238019",
+        "name": "Agrimark",
+        "shop": "agrarian"
+      }
+    },
+    {
       "displayName": "Coastals",
       "id": "coastals-ed1376",
       "locationSet": {"include": ["za"]},

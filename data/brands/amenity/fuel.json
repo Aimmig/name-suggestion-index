@@ -530,6 +530,19 @@
       }
     },
     {
+      "displayName": "Aramco",
+      "id": "aramco-289efc",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Aramco",
+        "brand:en": "Aramco",
+        "brand:wikidata": "Q679322",
+        "name": "Aramco",
+        "name:en": "Aramco"
+      }
+    },
+    {
       "displayName": "Arco",
       "id": "arco-c87a80",
       "locationSet": {"include": ["mx", "us"]},
@@ -1327,8 +1340,8 @@
     },
     {
       "displayName": "Casey's General Store",
-      "id": "caseysgeneralstore-b3d110",
-      "locationSet": {"include": ["001"]},
+      "id": "caseysgeneralstore-c5cf43",
+      "locationSet": {"include": ["us"]},
       "matchNames": ["caseys"],
       "tags": {
         "amenity": "fuel",
@@ -1834,13 +1847,14 @@
       }
     },
     {
-      "displayName": "Dapsa",
+      "displayName": "DAPSA",
       "id": "dapsa-dca697",
       "locationSet": {"include": ["ar"]},
       "tags": {
         "amenity": "fuel",
-        "brand": "Dapsa",
-        "name": "Dapsa"
+        "brand": "DAPSA",
+        "brand:wikidata": "Q140480567",
+        "name": "DAPSA"
       }
     },
     {
@@ -2047,6 +2061,17 @@
         "brand": "ED",
         "brand:wikidata": "Q118111469",
         "name": "ED"
+      }
+    },
+    {
+      "displayName": "Effo",
+      "id": "effo-5cb63b",
+      "locationSet": {"include": ["fo"]},
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Effo",
+        "brand:wikidata": "Q1296301",
+        "name": "Effo"
       }
     },
     {
@@ -2416,10 +2441,10 @@
     },
     {
       "displayName": "Esso",
-      "id": "esso-053960",
+      "id": "esso-6ac50e",
       "locationSet": {
         "include": ["001"],
-        "exclude": ["br", "jp", "pl", "th"]
+        "exclude": ["ar", "br", "jp", "pl", "th"]
       },
       "matchNames": [
         "esso canada",
@@ -3739,7 +3764,7 @@
       }
     },
     {
-      "displayName": "JIO BP",
+      "displayName": "Jio-BP",
       "id": "jiobp-989925",
       "locationSet": {"include": ["in"]},
       "matchNames": [
@@ -3748,7 +3773,10 @@
       ],
       "tags": {
         "amenity": "fuel",
-        "brand": "JIO BP",
+        "brand": "Jio-BP",
+        "brand:en": "Jio-BP",
+        "brand:hi": "जियो-बीपी",
+        "brand:kn": "ಜಿಯೋ-ಬಿಪಿ",
         "brand:wikidata": "Q7311026"
       }
     },
@@ -4182,6 +4210,17 @@
         "amenity": "fuel",
         "brand": "Maes",
         "name": "Maes"
+      }
+    },
+    {
+      "displayName": "Magn",
+      "id": "magn-5cb63b",
+      "locationSet": {"include": ["fo"]},
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Magn",
+        "brand:wikidata": "Q140449576",
+        "name": "Magn"
       }
     },
     {
@@ -5475,18 +5514,18 @@
       }
     },
     {
-      "displayName": "PTT",
-      "id": "ptt-16b3c2",
+      "displayName": "PTT Station",
+      "id": "pttstation-9536f8",
       "locationSet": {
         "include": ["001"],
-        "exclude": ["pl"]
+        "exclude": ["pl", "th"]
       },
-      "matchNames": ["ptt station"],
+      "matchNames": ["ptt"],
       "tags": {
         "amenity": "fuel",
-        "brand": "PTT",
+        "brand": "PTT Station",
         "brand:wikidata": "Q1810389",
-        "name": "PTT"
+        "name": "PTT Station"
       }
     },
     {
@@ -7407,6 +7446,18 @@
       }
     },
     {
+      "displayName": "Voy con Energía",
+      "id": "voyconenergia-dca697",
+      "locationSet": {"include": ["ar"]},
+      "matchNames": ["voy"],
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Voy con Energía",
+        "brand:wikidata": "Q140480520",
+        "name": "Voy con Energía"
+      }
+    },
+    {
       "displayName": "Waitomo",
       "id": "waitomo-088dbb",
       "locationSet": {"include": ["nz"]},
@@ -8898,18 +8949,18 @@
       }
     },
     {
-      "displayName": "ป.ต.ท.",
+      "displayName": "ปตท.",
       "id": "ptt-56d9b3",
       "locationSet": {"include": ["th"]},
       "tags": {
         "amenity": "fuel",
-        "brand": "ป.ต.ท.",
+        "brand": "ปตท.",
         "brand:en": "PTT",
-        "brand:th": "ป.ต.ท.",
+        "brand:th": "ปตท.",
         "brand:wikidata": "Q1810389",
-        "name": "ป.ต.ท.",
+        "name": "ปตท.",
         "name:en": "PTT",
-        "name:th": "ป.ต.ท."
+        "name:th": "ปตท."
       }
     },
     {

@@ -147,8 +147,8 @@
     },
     {
       "displayName": "Dollar Car Rental",
-      "id": "dollarcarrental-d50162",
-      "locationSet": {"include": ["us"]},
+      "id": "dollarcarrental-d9531a",
+      "locationSet": {"include": ["001"]},
       "matchNames": [
         "dollar",
         "dollar rent a car"
@@ -288,6 +288,19 @@
       }
     },
     {
+      "displayName": "Jネットレンタカー",
+      "id": "1887c1-f05847",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Jネットレンタカー",
+        "brand:ja": "Jネットレンタカー",
+        "brand:wikidata": "Q11227092",
+        "name": "Jネットレンタカー",
+        "name:ja": "Jネットレンタカー"
+      }
+    },
+    {
       "displayName": "Localiza",
       "id": "localiza-d9531a",
       "locationSet": {"include": ["001"]},
@@ -311,10 +324,8 @@
     },
     {
       "displayName": "National",
-      "id": "national-6ebae1",
-      "locationSet": {
-        "include": ["ca", "gb", "mx", "us"]
-      },
+      "id": "national-d9531a",
+      "locationSet": {"include": ["001"]},
       "tags": {
         "amenity": "car_rental",
         "brand": "National",
@@ -504,6 +515,36 @@
         "name": "オリックスレンタカー",
         "name:en": "ORIX Rent a Car",
         "name:ja": "オリックスレンタカー"
+      }
+    },
+    {
+      "displayName": "ガッツレンタカー",
+      "id": "gutsrentacar-f05847",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "ガッツレンタカー",
+        "brand:en": "Guts Rent-a-car",
+        "brand:ja": "ガッツレンタカー",
+        "brand:wikidata": "Q30928585",
+        "name": "ガッツレンタカー",
+        "name:en": "Guts Rent-a-car",
+        "name:ja": "ガッツレンタカー"
+      }
+    },
+    {
+      "displayName": "ジャパンレンタカー",
+      "id": "japanrentacar-f05847",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "ジャパンレンタカー",
+        "brand:en": "Japan Rent a Car",
+        "brand:ja": "ジャパンレンタカー",
+        "brand:wikidata": "Q33123382",
+        "name": "ジャパンレンタカー",
+        "name:en": "Japan Rent a Car",
+        "name:ja": "ジャパンレンタカー"
       }
     },
     {

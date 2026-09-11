@@ -196,6 +196,17 @@
       }
     },
     {
+      "displayName": "Culinarion",
+      "id": "culinarion-1b912f",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Culinarion",
+        "brand:wikidata": "Q141203030",
+        "name": "Culinarion",
+        "shop": "houseware"
+      }
+    },
+    {
       "displayName": "Dille & Kamille",
       "id": "dilleandkamille-c5ed6b",
       "locationSet": {
@@ -893,6 +904,17 @@
       }
     },
     {
+      "displayName": "Verimark",
+      "id": "verimark-4abcbe",
+      "locationSet": {"include": ["za"]},
+      "tags": {
+        "brand": "Verimark",
+        "brand:wikidata": "Q129636135",
+        "name": "Verimark",
+        "shop": "houseware"
+      }
+    },
+    {
       "displayName": "Villeroy & Boch",
       "id": "villeroyandboch-19bb0d",
       "locationSet": {"include": ["001"]},
@@ -957,6 +979,21 @@
         "brand": "Zwilling",
         "brand:wikidata": "Q244736",
         "name": "Zwilling",
+        "shop": "houseware"
+      }
+    },
+    {
+      "displayName": "Παρουσίαση (Parousiasi)",
+      "id": "parousiasi-d48b77",
+      "locationSet": {"include": ["gr"]},
+      "tags": {
+        "brand": "Παρουσίαση",
+        "brand:el": "Παρουσίαση",
+        "brand:en": "Parousiasi",
+        "brand:wikidata": "Q140454500",
+        "name": "Παρουσίαση",
+        "name:el": "Παρουσίαση",
+        "name:en": "Parousiasi",
         "shop": "houseware"
       }
     },
