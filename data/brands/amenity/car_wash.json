@@ -720,8 +720,7 @@
         "amenity": "car_wash",
         "brand": "Take 5",
         "brand:wikidata": "Q112359190",
-        "name": "Take 5 Car Wash",
-        "shop": "car_repair"
+        "name": "Take 5 Car Wash"
       }
     },
     {
@@ -809,6 +808,17 @@
         "brand": "Washman",
         "brand:wikidata": "Q109827210",
         "name": "Washman"
+      }
+    },
+    {
+      "displayName": "Washtec",
+      "id": "washtech-43b899",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "car_wash",
+        "brand": "Washtec",
+        "brand:wikidata": "Q141129553",
+        "name": "Washtech"
       }
     },
     {

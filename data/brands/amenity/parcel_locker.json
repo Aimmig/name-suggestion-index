@@ -146,6 +146,17 @@
       }
     },
     {
+      "displayName": "Bob Box",
+      "id": "bobbox-6115c3",
+      "locationSet": {"include": ["za"]},
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Bob Box",
+        "brand:wikidata": "Q141276676",
+        "name": "Bob Box"
+      }
+    },
+    {
       "displayName": "Box Now (Hrvatska)",
       "id": "boxnow-30ebd7",
       "locationSet": {"include": ["hr"]},
@@ -268,6 +279,17 @@
       }
     },
     {
+      "displayName": "DHL",
+      "id": "dhl-476b76",
+      "locationSet": {"include": ["nl"]},
+      "matchNames": ["dhl pakketautomaat"],
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "DHL",
+        "brand:wikidata": "Q489815"
+      }
+    },
+    {
       "displayName": "DHL BOX 24/7",
       "id": "dhlbox247-ce4e28",
       "locationSet": {"include": ["pl"]},
@@ -308,17 +330,6 @@
         "brand": "Paketbox",
         "brand:wikidata": "Q2046604",
         "name": "DHL Paketbox"
-      }
-    },
-    {
-      "displayName": "DHL Pakketautomaat",
-      "id": "dhlpakketautomaat-476b76",
-      "locationSet": {"include": ["nl"]},
-      "tags": {
-        "amenity": "parcel_locker",
-        "brand": "DHL",
-        "brand:wikidata": "Q132858576",
-        "name": "DHL Pakketautomaat"
       }
     },
     {
@@ -586,6 +597,17 @@
         "brand:wikidata": "Q131629951"
       }
     },
+{
+  "displayName": "Inboxx",
+  "id": "inboxx",
+  "locationSet": {"include": ["de"]
+  },
+  "tags": {
+    "amenity": "parcel_locker",
+    "brand": "Inboxx",
+    "brand:wikidata": "Q141392107"
+  }
+},    
     {
       "displayName": "InPost",
       "id": "inpost-6b37ec",
@@ -680,6 +702,18 @@
       "tags": {
         "amenity": "parcel_locker",
         "brand": "LockerPost"
+      }
+    },
+    {
+      "displayName": "Locky",
+      "id": "locky-eaeb86",
+      "locationSet": {"include": ["pt"]},
+      "tags": {
+        "amenity": "parcel_locker",
+        "brand": "Locky",
+        "brand:wikidata": "Q127548459",
+        "operator": "CTT",
+        "operator:wikidata": "Q1024518"
       }
     },
     {
@@ -1040,16 +1074,14 @@
       }
     },
     {
-      "displayName": "PostNL Pakketautomaat",
-      "id": "postnlpakketautomaat-476b76",
+      "displayName": "PostNL",
+      "id": "postnl-476b76",
       "locationSet": {"include": ["nl"]},
+      "matchNames": ["postnl pakketautomaat"],
       "tags": {
         "amenity": "parcel_locker",
         "brand": "PostNL",
-        "brand:wikidata": "Q5921598",
-        "name": "PostNL Pakketautomaat",
-        "operator": "PostNL",
-        "operator:wikidata": "Q5921598"
+        "brand:wikidata": "Q5921598"
       }
     },
     {
@@ -1310,6 +1342,7 @@
       "locationSet": {"include": ["ua"]},
       "matchNames": [
         "epicentr k",
+        "epitzentr",
         "epizentr",
         "епіцентр"
       ],

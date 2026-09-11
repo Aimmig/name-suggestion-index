@@ -6,6 +6,7 @@
       "generic": [
         "^(有料老人|老人|日)?ホーム$",
         "^betreutes wohnen$",
+        "^ehpad du ch$",
         "^social facility$",
         "^детский дом$",
         "^дом престарелых$",
@@ -409,16 +410,6 @@
       }
     },
     {
-      "displayName": "Ehpad du CH",
-      "id": "ehpadduch-f6f802",
-      "locationSet": {"include": ["fx"]},
-      "tags": {
-        "amenity": "social_facility",
-        "brand": "Ehpad du CH",
-        "name": "Ehpad du CH"
-      }
-    },
-    {
       "displayName": "Hilfswerk",
       "id": "hilfswerkosterreich-257965",
       "locationSet": {"include": ["at"]},
@@ -550,6 +541,20 @@
         "amenity": "social_facility",
         "brand": "PruittHealth",
         "brand:wikidata": "Q136295995"
+      }
+    },
+    {
+      "displayName": "Refood",
+      "id": "refood-cce3dc",
+      "locationSet": {
+        "include": ["br", "es", "it", "pt", "us"]
+      },
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Refood",
+        "brand:wikidata": "Q140315772",
+        "name": "Refood",
+        "social_facility": "food_bank"
       }
     },
     {

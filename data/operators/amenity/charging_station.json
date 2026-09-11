@@ -225,12 +225,11 @@
     },
     {
       "displayName": "Aldi (Aldi Süd group)",
-      "id": "aldi-141059",
+      "id": "aldi-e049e6",
       "issues": [10738],
       "locationSet": {
         "include": [
           "au",
-          "ch",
           "cn",
           "gb",
           "hu",
@@ -242,7 +241,6 @@
       "matchNames": [
         "aldi australia",
         "aldi süd",
-        "aldi suisse",
         "aldi uk",
         "aldi usa"
       ],
@@ -285,6 +283,16 @@
         "amenity": "charging_station",
         "operator": "Aldi",
         "operator:wikidata": "Q41171672"
+      }
+    },
+    {
+      "displayName": "Aldi Suisse",
+      "id": "aldisuisse-086737",
+      "locationSet": {"include": ["ch"]},
+      "tags": {
+        "amenity": "charging_station",
+        "operator": "Aldi Suisse",
+        "operator:wikidata": "Q111030009"
       }
     },
     {
@@ -435,7 +443,8 @@
       "locationSet": {"include": ["tr"]},
       "tags": {
         "amenity": "charging_station",
-        "operator": "Astor Enerji"
+        "operator": "Astor Enerji",
+        "operator:wikidata": "Q137204449"
       }
     },
     {
@@ -601,7 +610,8 @@
       "locationSet": {"include": ["dk"]},
       "tags": {
         "amenity": "charging_station",
-        "operator": "Base2Charge"
+        "operator": "Base2Charge",
+        "operator:wikidata": "Q130724030"
       }
     },
     {
@@ -970,16 +980,6 @@
       }
     },
     {
-      "displayName": "Cepsa",
-      "id": "cepsa-3948da",
-      "locationSet": {"include": ["es", "pt"]},
-      "tags": {
-        "amenity": "charging_station",
-        "operator": "Cepsa",
-        "operator:wikidata": "Q608819"
-      }
-    },
-    {
       "displayName": "Charge Your Car",
       "id": "chargeyourcar-0793ce",
       "locationSet": {"include": ["gb"]},
@@ -1042,7 +1042,8 @@
       "locationSet": {"include": ["se"]},
       "tags": {
         "amenity": "charging_station",
-        "operator": "ChargeNode"
+        "operator": "ChargeNode",
+        "operator:wikidata": "Q137839314"
       }
     },
     {
@@ -1079,7 +1080,8 @@
       "locationSet": {"include": ["pt"]},
       "tags": {
         "amenity": "charging_station",
-        "operator": "Charging Together"
+        "operator": "Charging Together",
+        "operator:wikidata": "Q131983342"
       }
     },
     {
@@ -1651,6 +1653,18 @@
       }
     },
     {
+      "displayName": "EBERwerk",
+      "id": "eberwerk-259ab2",
+      "locationSet": {
+        "include": ["de-by.geojson"]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "operator": "EBERwerk",
+        "operator:wikidata": "Q140674140"
+      }
+    },
+    {
       "displayName": "eborn",
       "id": "eborn-170e94",
       "locationSet": {"include": ["fx"]},
@@ -1686,31 +1700,6 @@
       "tags": {
         "amenity": "charging_station",
         "operator": "EcoInside"
-      }
-    },
-    {
-      "displayName": "Econec",
-      "id": "econec-b23832",
-      "locationSet": {"include": ["sk"]},
-      "matchNames": [
-        "ebike box",
-        "ebike point",
-        "ebike port"
-      ],
-      "note": "ISO 3166-2 SK-KI, SK-PV",
-      "tags": {
-        "amenity": "charging_station",
-        "operator": "Econec",
-        "operator:wikidata": "Q131407536"
-      }
-    },
-    {
-      "displayName": "econec.eu",
-      "id": "econeceu-c22d3a",
-      "locationSet": {"include": ["001"]},
-      "tags": {
-        "amenity": "charging_station",
-        "operator": "econec.eu"
       }
     },
     {
@@ -2165,18 +2154,6 @@
       }
     },
     {
-      "displayName": "Endolla Barcelona",
-      "id": "endollabarcelona-f58b3e",
-      "locationSet": {
-        "include": ["es-b.geojson"]
-      },
-      "tags": {
-        "amenity": "charging_station",
-        "operator": "Endolla Barcelona",
-        "operator:wikidata": "Q129811747"
-      }
-    },
-    {
       "displayName": "Eneco",
       "id": "eneco-35c01b",
       "locationSet": {
@@ -2310,18 +2287,6 @@
         "amenity": "charging_station",
         "operator": "Energie Steiermark",
         "operator:wikidata": "Q1341214"
-      }
-    },
-    {
-      "displayName": "Energie Südbayern",
-      "id": "energiesudbayern-259ab2",
-      "locationSet": {
-        "include": ["de-by.geojson"]
-      },
-      "tags": {
-        "amenity": "charging_station",
-        "operator": "Energie Südbayern",
-        "operator:wikidata": "Q1341223"
       }
     },
     {
@@ -2588,17 +2553,6 @@
       }
     },
     {
-      "displayName": "ESB Energy",
-      "id": "esbenergy-0793ce",
-      "locationSet": {"include": ["gb"]},
-      "matchNames": ["esb ev solutions"],
-      "tags": {
-        "amenity": "charging_station",
-        "operator": "ESB Energy",
-        "operator:wikidata": "Q118261834"
-      }
-    },
-    {
       "displayName": "Esso",
       "id": "esso-c22d3a",
       "locationSet": {"include": ["001"]},
@@ -2799,7 +2753,8 @@
       "locationSet": {"include": ["nl"]},
       "tags": {
         "amenity": "charging_station",
-        "operator": "EVnetNL"
+        "operator": "EVnetNL",
+        "operator:wikidata": "Q134727331"
       }
     },
     {
@@ -2818,7 +2773,8 @@
       "locationSet": {"include": ["gb"]},
       "tags": {
         "amenity": "charging_station",
-        "operator": "evolt"
+        "operator": "evolt",
+        "operator:wikidata": "Q137765305"
       }
     },
     {
@@ -3024,7 +2980,8 @@
       "locationSet": {"include": ["it"]},
       "tags": {
         "amenity": "charging_station",
-        "operator": "Free to X"
+        "operator": "Free to X",
+        "operator:wikidata": "Q132360687"
       }
     },
     {
@@ -3923,7 +3880,8 @@
       "locationSet": {"include": ["de"]},
       "tags": {
         "amenity": "charging_station",
-        "operator": "Ladeverbund+"
+        "operator": "Ladeverbund+",
+        "operator:wikidata": "Q128304087"
       }
     },
     {
@@ -4137,7 +4095,8 @@
       "locationSet": {"include": ["fr"]},
       "tags": {
         "amenity": "charging_station",
-        "operator": "LUMI'IN"
+        "operator": "LUMI'IN",
+        "operator:wikidata": "Q131639361"
       }
     },
     {
@@ -4176,7 +4135,8 @@
       },
       "tags": {
         "amenity": "charging_station",
-        "operator": "Maingau"
+        "operator": "Maingau",
+        "operator:wikidata": "Q28811800"
       }
     },
     {
@@ -4407,6 +4367,17 @@
         "amenity": "charging_station",
         "operator": "Modulo",
         "operator:wikidata": "Q128788809"
+      }
+    },
+    {
+      "displayName": "Moeve",
+      "id": "moeve-3948da",
+      "locationSet": {"include": ["es", "pt"]},
+      "matchNames": ["cepsa"],
+      "tags": {
+        "amenity": "charging_station",
+        "operator": "Moeve",
+        "operator:wikidata": "Q608819"
       }
     },
     {
@@ -4828,7 +4799,8 @@
       "locationSet": {"include": ["fx"]},
       "tags": {
         "amenity": "charging_station",
-        "operator": "Ouest Charge"
+        "operator": "Ouest Charge",
+        "operator:wikidata": "Q133444508"
       }
     },
     {
@@ -4933,8 +4905,18 @@
     },
     {
       "displayName": "Plenitude",
-      "id": "plenitude-2c5517",
-      "locationSet": {"include": ["it"]},
+      "id": "plenitude-78f1b4",
+      "locationSet": {
+        "include": [
+          "at",
+          "ch",
+          "de",
+          "es",
+          "fx",
+          "it"
+        ]
+      },
+      "matchNames": ["eni plenitude"],
       "tags": {
         "amenity": "charging_station",
         "operator": "Plenitude",
@@ -5616,7 +5598,8 @@
       "locationSet": {"include": ["tr"]},
       "tags": {
         "amenity": "charging_station",
-        "operator": "SHARZ"
+        "operator": "SHARZ",
+        "operator:wikidata": "Q135753785"
       }
     },
     {
@@ -7650,7 +7633,8 @@
       "locationSet": {"include": ["tr"]},
       "tags": {
         "amenity": "charging_station",
-        "operator": "VOLTRUN"
+        "operator": "VOLTRUN",
+        "operator:wikidata": "Q135753789"
       }
     },
     {
@@ -7969,25 +7953,6 @@
         "amenity": "charging_station",
         "operator": "Γαλαξίας",
         "operator:wikidata": "Q5518063"
-      }
-    },
-    {
-      "displayName": "ΔΕΗ",
-      "id": "788cf3-e68869",
-      "locationSet": {"include": ["gr"]},
-      "tags": {
-        "amenity": "charging_station",
-        "operator": "ΔΕΗ",
-        "operator:wikidata": "Q326345"
-      }
-    },
-    {
-      "displayName": "ΔΕΗ blue",
-      "id": "3ef695-e68869",
-      "locationSet": {"include": ["gr"]},
-      "tags": {
-        "amenity": "charging_station",
-        "operator": "ΔΕΗ blue"
       }
     },
     {

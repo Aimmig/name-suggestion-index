@@ -2301,6 +2301,29 @@
       }
     },
     {
+      "displayName": "Flop",
+      "id": "flop-a7773e",
+      "locationSet": {"include": ["cz"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Flop",
+        "brand:wikidata": "Q141119217",
+        "name": "Flop",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "Flop Top",
+      "id": "floptop-a7773e",
+      "locationSet": {"include": ["cz"]},
+      "tags": {
+        "brand": "Flop Top",
+        "brand:wikidata": "Q141119217",
+        "name": "Flop Top",
+        "shop": "convenience"
+      }
+    },
+    {
       "displayName": "Flying J",
       "id": "flyingj-16ec4d",
       "locationSet": {"include": ["ca", "us"]},
@@ -2705,19 +2728,6 @@
       }
     },
     {
-      "displayName": "Handlar'n",
-      "id": "handlarn-f5adeb",
-      "locationSet": {"include": ["se"]},
-      "matchTags": ["shop/supermarket"],
-      "preserveTags": ["^name"],
-      "tags": {
-        "brand": "Handlar'n",
-        "brand:wikidata": "Q10517161",
-        "name": "Handlar'n",
-        "shop": "convenience"
-      }
-    },
-    {
       "displayName": "Hasty Market",
       "id": "hastymarket-eea72f",
       "locationSet": {"include": ["ca"]},
@@ -3081,6 +3091,19 @@
         "brand": "Joe's Kwik Marts",
         "brand:wikidata": "Q109871144",
         "name": "Joe's Kwik Marts",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "k kiosk",
+      "id": "kkiosk-e34768",
+      "locationSet": {
+        "include": ["ch", "de", "li", "lu"]
+      },
+      "tags": {
+        "brand": "k kiosk",
+        "brand:wikidata": "Q60381703",
+        "name": "k kiosk",
         "shop": "convenience"
       }
     },
@@ -3757,6 +3780,21 @@
       }
     },
     {
+  "displayName": "Mass",
+  "id": "Mass",
+  "locationSet": {
+    "include": [
+      "pe"
+    ]
+  },
+  "tags": {
+    "shop": "convenience",
+    "name": "Mass",
+    "brand": "Mass",
+    "brand:wikidata": "Q104814825"
+  }
+},
+    {
       "displayName": "masymas basic",
       "id": "masymasbasic-849ea7",
       "locationSet": {
@@ -3775,19 +3813,6 @@
         "name": "masymas basic",
         "operator": "Juan Fornés Fornés S.A.",
         "operator:wikidata": "Q6135987",
-        "shop": "convenience"
-      }
-    },
-    {
-      "displayName": "Matöppet",
-      "id": "matoppet-f5adeb",
-      "locationSet": {"include": ["se"]},
-      "matchTags": ["shop/supermarket"],
-      "preserveTags": ["^name"],
-      "tags": {
-        "brand": "Matöppet",
-        "brand:wikidata": "Q10578618",
-        "name": "Matöppet",
         "shop": "convenience"
       }
     },
@@ -4582,8 +4607,8 @@
     },
     {
       "displayName": "On the Run",
-      "id": "ontherun-4d6b4b",
-      "locationSet": {"include": ["001"]},
+      "id": "ontherun-16ec4d",
+      "locationSet": {"include": ["ca", "us"]},
       "tags": {
         "brand": "On the Run",
         "brand:wikidata": "Q16931259",
@@ -4641,6 +4666,7 @@
       "displayName": "OTR",
       "id": "otr-0b0ae9",
       "locationSet": {"include": ["au"]},
+      "matchNames": ["on the run"],
       "tags": {
         "brand": "OTR",
         "brand:wikidata": "Q116394019",
@@ -4723,6 +4749,17 @@
         "brand": "Patanjali Ayurved",
         "brand:wikidata": "Q19856023",
         "name": "Patanjali Store",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "Pavilion 24",
+      "id": "pavilion24-854be4",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "brand": "Pavilion 24",
+        "brand:wikidata": "Q140798080",
+        "name": "Pavilion 24",
         "shop": "convenience"
       }
     },
@@ -4834,6 +4871,18 @@
         "brand": "Pont to go",
         "brand:wikidata": "Q138807123",
         "name": "Pont to go",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "Potraviny CZ",
+      "id": "potravinycz-a7773e",
+      "locationSet": {"include": ["cz"]},
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Potraviny CZ",
+        "brand:wikidata": "Q141119228",
+        "name": "Potraviny CZ",
         "shop": "convenience"
       }
     },
@@ -5409,6 +5458,18 @@
       }
     },
     {
+      "displayName": "Sherpa",
+      "id": "sherpa-f6dc0a",
+      "locationSet": {"include": ["fx"]},
+      "matchTags": ["shop/supermarket"],
+      "tags": {
+        "brand": "Sherpa",
+        "brand:wikidata": "Q3481967",
+        "name": "Sherpa",
+        "shop": "convenience"
+      }
+    },
+    {
       "displayName": "Shop'N Drive",
       "id": "shopndrive-232829",
       "locationSet": {"include": ["gb"]},
@@ -5949,19 +6010,6 @@
       "tags": {
         "brand": "Tempo",
         "brand:wikidata": "Q52851660",
-        "name": "Tempo",
-        "shop": "convenience"
-      }
-    },
-    {
-      "displayName": "Tempo (Sverige)",
-      "id": "tempo-f5adeb",
-      "locationSet": {"include": ["se"]},
-      "matchTags": ["shop/supermarket"],
-      "preserveTags": ["^name"],
-      "tags": {
-        "brand": "Tempo",
-        "brand:wikidata": "Q10692628",
         "name": "Tempo",
         "shop": "convenience"
       }
@@ -7308,17 +7356,6 @@
       }
     },
     {
-      "displayName": "Домашній маркет",
-      "id": "06a7d6-023e9c",
-      "locationSet": {"include": ["ua"]},
-      "tags": {
-        "brand": "Домашній маркет",
-        "brand:wikidata": "Q131607469",
-        "name": "Домашній маркет",
-        "shop": "convenience"
-      }
-    },
-    {
       "displayName": "ДорОрс",
       "id": "dorors-e64bef",
       "locationSet": {"include": ["by"]},
@@ -7644,17 +7681,6 @@
       "tags": {
         "brand": "Кошик",
         "name": "Кошик",
-        "shop": "convenience"
-      }
-    },
-    {
-      "displayName": "Красное&Белое",
-      "id": "45d784-e33fbc",
-      "locationSet": {"include": ["ru"]},
-      "tags": {
-        "brand": "Красное&Белое",
-        "brand:wikidata": "Q24933790",
-        "name": "Красное&Белое",
         "shop": "convenience"
       }
     },
@@ -9376,6 +9402,21 @@
         "name": "十足",
         "name:en": "Shizu",
         "name:zh": "十足",
+        "shop": "convenience"
+      }
+    },
+    {
+      "displayName": "友客",
+      "id": "youke-da9ca7",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "brand": "友客",
+        "brand:en": "Youke",
+        "brand:wikidata": "Q140329364",
+        "brand:zh": "友客",
+        "name": "友客",
+        "name:en": "Youke",
+        "name:zh": "友客",
         "shop": "convenience"
       }
     },

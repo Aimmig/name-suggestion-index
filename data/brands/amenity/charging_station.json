@@ -10,6 +10,17 @@
   },
   "items": [
     {
+      "displayName": "5 Şarj",
+      "id": "5sarj-e7bbbe",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "5 Şarj",
+        "brand:wikidata": "Q135753392",
+        "name": "5 Şarj"
+      }
+    },
+    {
       "displayName": "7-Eleven",
       "id": "7eleven-5598dd",
       "locationSet": {"include": ["us"]},
@@ -333,6 +344,21 @@
       }
     },
     {
+      "displayName": "econec",
+      "id": "econec-391bca",
+      "locationSet": {"include": ["cz", "sk"]},
+      "matchNames": [
+        "ebike box",
+        "ebike point",
+        "econec.eu"
+      ],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "econec",
+        "brand:wikidata": "Q131407536"
+      }
+    },
+    {
       "displayName": "ejoin",
       "id": "ejoin-8610f2",
       "locationSet": {"include": ["sk"]},
@@ -342,6 +368,19 @@
         "brand:wikidata": "Q116737637",
         "operator": "ejoin",
         "operator:wikidata": "Q116737637"
+      }
+    },
+    {
+      "displayName": "EKO Charge&Go",
+      "id": "ekochargeandgo-5f334c",
+      "locationSet": {"include": ["gr"]},
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "EKO Charge&Go",
+        "brand:wikidata": "Q140818770",
+        "name": "EKO Charge&Go",
+        "operator": "HELLENiQ ENERGY",
+        "operator:wikidata": "Q903198"
       }
     },
     {
@@ -471,6 +510,21 @@
       }
     },
     {
+      "displayName": "Endolla Barcelona",
+      "id": "endollabarcelona-000947",
+      "locationSet": {
+        "include": ["es-b.geojson"]
+      },
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Endolla Barcelona",
+        "brand:wikidata": "Q129811747",
+        "operator": "Barcelona de Serveis Municipals",
+        "operator:short": "BSM",
+        "operator:wikidata": "Q11908177"
+      }
+    },
+    {
       "displayName": "Enel",
       "id": "enel-0532c0",
       "locationSet": {"include": ["it"]},
@@ -503,6 +557,21 @@
       }
     },
     {
+      "displayName": "Energie Südbayern",
+      "id": "energiesudbayern-4d480f",
+      "locationSet": {
+        "include": ["de-by.geojson"]
+      },
+      "matchNames": ["esb"],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Energie Südbayern",
+        "brand:wikidata": "Q1341223",
+        "operator": "Energie Südbayern",
+        "operator:wikidata": "Q1341223"
+      }
+    },
+    {
       "displayName": "ENGIE Vianeo",
       "id": "engievianeo-b625d6",
       "locationSet": {"include": ["150"]},
@@ -514,11 +583,14 @@
     },
     {
       "displayName": "ESB ecars",
-      "id": "esbecars-e9c107",
-      "locationSet": {
-        "include": ["gb-nir", "ie"]
-      },
-      "matchNames": ["ecarni", "esb"],
+      "id": "esbecars-23c50d",
+      "locationSet": {"include": ["gb", "ie"]},
+      "matchNames": [
+        "ecarni",
+        "esb",
+        "esb energy",
+        "esb ev solutions"
+      ],
       "tags": {
         "amenity": "charging_station",
         "brand": "ESB ecars",
@@ -563,6 +635,17 @@
         "brand:wikidata": "Q138339918",
         "name": "EV Power",
         "name:en": "EV Power"
+      }
+    },
+    {
+      "displayName": "EVChaja",
+      "id": "evchaja-002e1b",
+      "locationSet": {"include": ["ke"]},
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "EVChaja",
+        "brand:wikidata": "Q140930713",
+        "name": "EVChaja"
       }
     },
     {
@@ -957,7 +1040,7 @@
     },
     {
       "displayName": "Milence",
-      "id": "milence-1903ef",
+      "id": "milencecharginghub-1903ef",
       "locationSet": {
         "include": [
           "at",
@@ -980,7 +1063,8 @@
         "brand:wikidata": "Q131904416",
         "hgv": "designated",
         "motorcar": "no",
-        "motorcycle": "no"
+        "motorcycle": "no",
+        "name": "Milence Charging Hub"
       }
     },
     {
@@ -1096,6 +1180,19 @@
       }
     },
     {
+      "displayName": "nrg incharge",
+      "id": "nrgincharge-5f334c",
+      "locationSet": {"include": ["gr"]},
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "nrg incharge",
+        "brand:wikidata": "Q140817704",
+        "name": "nrg incharge",
+        "operator": "Motor Oil Hellas",
+        "operator:wikidata": "Q6918149"
+      }
+    },
+    {
       "displayName": "Olife Energy",
       "id": "olifeenergy-52c83f",
       "locationSet": {"include": ["cz"]},
@@ -1159,6 +1256,17 @@
         "amenity": "charging_station",
         "brand": "Plugit",
         "brand:wikidata": "Q123493675"
+      }
+    },
+    {
+      "displayName": "PlugQ",
+      "id": "plugq-5f334c",
+      "locationSet": {"include": ["gr"]},
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "PlugQ",
+        "brand:wikidata": "Q140818570",
+        "name": "PlugQ"
       }
     },
     {
@@ -1509,6 +1617,17 @@
       }
     },
     {
+      "displayName": "Walmart Energy",
+      "id": "walmartenergy-5598dd",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Walmart Energy",
+        "brand:wikidata": "Q140482254",
+        "name": "Walmart Energy"
+      }
+    },
+    {
       "displayName": "We Drive Solar",
       "id": "wedrivesolar-2a8f9b",
       "locationSet": {"include": ["nl"]},
@@ -1528,6 +1647,18 @@
         "amenity": "charging_station",
         "brand": "Wink Charging",
         "brand:wikidata": "Q117706556"
+      }
+    },
+    {
+      "displayName": "Witty",
+      "id": "witty-5f334c",
+      "locationSet": {"include": ["gr"]},
+      "matchNames": ["witty by hager hellas"],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "Witty",
+        "brand:wikidata": "Q140818696",
+        "name": "Witty"
       }
     },
     {
@@ -1566,6 +1697,20 @@
         "operator": "Západoslovenská energetika",
         "operator:short": "ZSE",
         "operator:wikidata": "Q246921"
+      }
+    },
+    {
+      "displayName": "ΔΕΗ blue",
+      "id": "3ef695-5f334c",
+      "locationSet": {"include": ["gr"]},
+      "matchNames": ["dei", "dei blue"],
+      "tags": {
+        "amenity": "charging_station",
+        "brand": "ΔΕΗ blue",
+        "brand:wikidata": "Q140818654",
+        "name": "ΔΕΗ blue",
+        "operator": "ΔΕΗ",
+        "operator:wikidata": "Q326345"
       }
     },
     {

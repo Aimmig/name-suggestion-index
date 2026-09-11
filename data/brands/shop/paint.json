@@ -252,6 +252,17 @@
       }
     },
     {
+      "displayName": "Martin Auto Color",
+      "id": "martinautocolor-4b3183",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "brand": "Martin Auto Color",
+        "brand:wikidata": "Q140727060",
+        "name": "Martin Auto Color",
+        "shop": "paint"
+      }
+    },
+    {
       "displayName": "Miller Paint",
       "id": "millerpaint-c4c85f",
       "locationSet": {
@@ -351,6 +362,17 @@
         "brand": "Sherwin-Williams",
         "brand:wikidata": "Q48881",
         "name": "Sherwin-Williams",
+        "shop": "paint"
+      }
+    },
+    {
+      "displayName": "Tollens",
+      "id": "tollens-e33005",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "Tollens",
+        "brand:wikidata": "Q127515008",
+        "name": "Tollens",
         "shop": "paint"
       }
     },

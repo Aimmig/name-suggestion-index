@@ -873,6 +873,19 @@
       }
     },
     {
+      "displayName": "Skiset",
+      "locationSet": {"include": ["fx", "de", "es", "ch", "ad", "it", "at", "bg", "sk", "si"]},
+      "matchTags": ["shop/outdoor", "shop/rental", "amenity/ski_rental"],
+      "tags": {
+        "amenity": "ski_rental",
+        "brand": "Skiset",
+        "brand:wikidata": "Q48747223",
+        "name": "Skiset",
+        "sport": "ski;snowboard",
+        "shop": "sports"
+      }
+    },
+    {
       "displayName": "Source For Sports",
       "id": "sourceforsports-80660e",
       "locationSet": {"include": ["ca"]},
@@ -1263,6 +1276,21 @@
         "name": "スポーツデポ",
         "name:en": "Sports Depo",
         "name:ja": "スポーツデポ",
+        "shop": "sports"
+      }
+    },
+    {
+      "displayName": "ムラサキスポーツ",
+      "id": "murasakisports-04ead7",
+      "locationSet": {"include": ["jp"]},
+      "tags": {
+        "brand": "ムラサキスポーツ",
+        "brand:en": "Murasaki Sports",
+        "brand:ja": "ムラサキスポーツ",
+        "brand:wikidata": "Q11343172",
+        "name": "ムラサキスポーツ",
+        "name:en": "Murasaki Sports",
+        "name:ja": "ムラサキスポーツ",
         "shop": "sports"
       }
     },

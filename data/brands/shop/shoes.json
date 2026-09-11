@@ -11,6 +11,18 @@
   },
   "items": [
     {
+      "displayName": "3 Hermanos",
+      "id": "3hermanos-02b23f",
+      "locationSet": {"include": ["mx"]},
+      "tags": {
+        "brand": "3 Hermanos",
+        "brand:wikidata": "Q127043299",
+        "name": "3 Hermanos",
+        "shoes": "women;men;children",
+        "shop": "shoes"
+      }
+    },
+    {
       "displayName": "ABC Schuh-Center",
       "id": "abcschuhcenter-0833e2",
       "locationSet": {"include": ["de"]},
@@ -77,6 +89,19 @@
         "brand": "André",
         "brand:wikidata": "Q2847114",
         "name": "André",
+        "shop": "shoes"
+      }
+    },
+    {
+      "displayName": "Andrea",
+      "id": "andrea-02b23f",
+      "locationSet": {"include": ["mx"]},
+      "tags": {
+        "brand": "Andrea",
+        "brand:wikidata": "Q141136311",
+        "clothes": "women;men;children",
+        "name": "Andrea",
+        "shoes": "women;men;children",
         "shop": "shoes"
       }
     },
@@ -240,6 +265,17 @@
         "brand:wikidata": "Q101247434",
         "name": "Bexley",
         "shoes": "men",
+        "shop": "shoes"
+      }
+    },
+    {
+      "displayName": "BHermanos",
+      "id": "bhermanos-02b23f",
+      "locationSet": {"include": ["mx"]},
+      "tags": {
+        "brand": "BHermanos",
+        "brand:wikidata": "Q141176416",
+        "name": "BHermanos",
         "shop": "shoes"
       }
     },
@@ -695,6 +731,27 @@
       }
     },
     {
+      "displayName": "Finsbury",
+      "id": "finsbury-d5b2ff",
+      "locationSet": {
+        "include": [
+          "be",
+          "ci",
+          "dz",
+          "fr",
+          "hk",
+          "lu",
+          "ma"
+        ]
+      },
+      "tags": {
+        "brand": "Finsbury",
+        "brand:wikidata": "Q141242163",
+        "name": "Finsbury",
+        "shop": "shoes"
+      }
+    },
+    {
       "displayName": "Fleet Feet",
       "id": "fleetfeet-c5ede1",
       "locationSet": {"include": ["us"]},
@@ -1097,8 +1154,10 @@
     },
     {
       "displayName": "Kurt Geiger",
-      "id": "kurtgeiger-eede13",
-      "locationSet": {"include": ["gb"]},
+      "id": "kurtgeiger-c0bfcb",
+      "locationSet": {
+        "include": ["gb", "ie", "us", "za"]
+      },
       "tags": {
         "brand": "Kurt Geiger",
         "brand:wikidata": "Q17063744",
@@ -1444,6 +1503,19 @@
         "brand": "MyShoes",
         "brand:wikidata": "Q107091147",
         "name": "MyShoes",
+        "shop": "shoes"
+      }
+    },
+    {
+      "displayName": "Naot",
+      "id": "naot-25085b",
+      "locationSet": {
+        "include": ["ca", "il", "jp", "us"]
+      },
+      "tags": {
+        "brand": "Naot",
+        "brand:wikidata": "Q6964738",
+        "name": "Naot",
         "shop": "shoes"
       }
     },
@@ -2664,6 +2736,17 @@
         "brand": "WSS",
         "brand:wikidata": "Q7969302",
         "name": "WSS",
+        "shop": "shoes"
+      }
+    },
+    {
+      "displayName": "Wynsors",
+      "id": "wynsors-eede13",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "Wynsors World of Shoes",
+        "brand:wikidata": "Q8040250",
+        "name": "Wynsors",
         "shop": "shoes"
       }
     },

@@ -283,12 +283,11 @@
     },
     {
       "displayName": "Aldi (Aldi Süd group)",
-      "id": "aldi-68f0e3",
+      "id": "aldi-4b76bf",
       "issues": [10738],
       "locationSet": {
         "include": [
           "au",
-          "ch",
           "cn",
           "gb",
           "hu",
@@ -300,7 +299,6 @@
       "matchNames": [
         "aldi australia",
         "aldi süd",
-        "aldi suisse",
         "aldi uk",
         "aldi usa"
       ],
@@ -345,6 +343,17 @@
       }
     },
     {
+      "displayName": "Aldi Suisse",
+      "id": "aldi-36e991",
+      "locationSet": {"include": ["ch"]},
+      "tags": {
+        "brand": "Aldi Suisse",
+        "brand:wikidata": "Q111030009",
+        "name": "Aldi",
+        "shop": "supermarket"
+      }
+    },
+    {
       "displayName": "Alimerka",
       "id": "alimerka-0513f1",
       "locationSet": {"include": ["es"]},
@@ -377,6 +386,39 @@
         "organic": "only",
         "shop": "supermarket",
         "short_name": "Alnatura"
+      }
+    },
+    {
+      "displayName": "Alsuper",
+      "id": "alsuper-9b2dfb",
+      "locationSet": {"include": ["mx"]},
+      "tags": {
+        "brand": "Alsuper",
+        "brand:wikidata": "Q6051516",
+        "name": "Alsuper",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "Alsuper Fresh Market",
+      "id": "alsuperfreshmarket-9b2dfb",
+      "locationSet": {"include": ["mx"]},
+      "tags": {
+        "brand": "Alsuper",
+        "brand:wikidata": "Q6051516",
+        "name": "Alsuper Fresh Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "Alsuper Plus",
+      "id": "alsuperplus-9b2dfb",
+      "locationSet": {"include": ["mx"]},
+      "tags": {
+        "brand": "Alsuper",
+        "brand:wikidata": "Q6051516",
+        "name": "Alsuper Plus",
+        "shop": "supermarket"
       }
     },
     {
@@ -2054,8 +2096,8 @@
     },
     {
       "displayName": "Costcutter",
-      "id": "costcutter-986a24",
-      "locationSet": {"include": ["001"]},
+      "id": "costcutter-b7087f",
+      "locationSet": {"include": ["gb", "ie"]},
       "matchNames": ["costcutters"],
       "tags": {
         "brand": "Costcutter",
@@ -2811,6 +2853,7 @@
       "displayName": "Eurospar",
       "id": "eurospar-4b5e11",
       "locationSet": {"include": ["150"]},
+      "matchNames": ["spar"],
       "tags": {
         "brand": "Eurospar",
         "brand:wikidata": "Q12309283",
@@ -3731,6 +3774,19 @@
       }
     },
     {
+      "displayName": "Handlar'n",
+      "id": "handlarn-c57afb",
+      "locationSet": {"include": ["se"]},
+      "matchTags": ["shop/convenience"],
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Handlar'n",
+        "brand:wikidata": "Q10517161",
+        "name": "Handlar'n",
+        "shop": "supermarket"
+      }
+    },
+    {
       "displayName": "Hannaford",
       "id": "hannaford-dde59d",
       "locationSet": {"include": ["us"]},
@@ -4343,6 +4399,7 @@
       "displayName": "K-Supermarket",
       "id": "ksupermarket-46d3b7",
       "locationSet": {"include": ["fi"]},
+      "preserveTags": ["^name"],
       "tags": {
         "brand": "K-Supermarket",
         "brand:wikidata": "Q5408668",
@@ -5055,11 +5112,8 @@
     },
     {
       "displayName": "M&S Foodhall",
-      "id": "mandsfoodhall-3c0448",
-      "locationSet": {
-        "include": ["001"],
-        "exclude": ["us"]
-      },
+      "id": "mandsfoodhall-b7087f",
+      "locationSet": {"include": ["gb", "ie"]},
       "matchNames": ["marks & spencer foodhall"],
       "tags": {
         "brand": "Marks & Spencer",
@@ -5071,11 +5125,8 @@
     },
     {
       "displayName": "M&S Simply Food",
-      "id": "mandssimplyfood-3c0448",
-      "locationSet": {
-        "include": ["001"],
-        "exclude": ["us"]
-      },
+      "id": "mandssimplyfood-a8278b",
+      "locationSet": {"include": ["gb"]},
       "matchNames": [
         "marks & spencer simply food"
       ],
@@ -5361,15 +5412,13 @@
     },
     {
       "displayName": "masymas (Juan Fornés Fornés)",
-      "id": "masymas-cb4ace",
+      "id": "masymas-89bbe3",
       "locationSet": {
         "include": [
-          [-0.3, 38.6983, 60],
-          [-0.7197, 39.4717, 60],
-          [-0.8792, 37.6237, 20],
-          [-1.041389, 38.207222, 60],
-          [-1.6023, 37.7126, 50],
-          [0.0096, 40.3, 60]
+          "es-a.geojson",
+          "es-cs.geojson",
+          "es-mu.geojson",
+          "es-v.geojson"
         ]
       },
       "tags": {
@@ -5432,6 +5481,19 @@
       "tags": {
         "brand": "Matkroken",
         "brand:wikidata": "Q11988679",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "Matöppet",
+      "id": "matoppet-c57afb",
+      "locationSet": {"include": ["se"]},
+      "matchTags": ["shop/convenience"],
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Matöppet",
+        "brand:wikidata": "Q10578618",
+        "name": "Matöppet",
         "shop": "supermarket"
       }
     },
@@ -7954,6 +8016,19 @@
       }
     },
     {
+      "displayName": "So.bio",
+      "id": "sobio-94a8a9",
+      "locationSet": {"include": ["fx"]},
+      "matchTags": ["shop/convenience"],
+      "tags": {
+        "brand": "So.bio",
+        "brand:wikidata": "Q141195843",
+        "name": "So.bio",
+        "organic": "only",
+        "shop": "supermarket"
+      }
+    },
+    {
       "displayName": "Sobeys",
       "id": "sobeys-76454b",
       "locationSet": {"include": ["ca"]},
@@ -8077,6 +8152,7 @@
       },
       "tags": {
         "brand": "Spinneys",
+        "brand:wikidata": "Q2890701",
         "name": "Spinneys",
         "shop": "supermarket"
       }
@@ -8684,6 +8760,19 @@
       }
     },
     {
+      "displayName": "Tempo (Sverige)",
+      "id": "tempo-c57afb",
+      "locationSet": {"include": ["se"]},
+      "matchTags": ["shop/convenience"],
+      "preserveTags": ["^name"],
+      "tags": {
+        "brand": "Tempo",
+        "brand:wikidata": "Q10692628",
+        "name": "Tempo",
+        "shop": "supermarket"
+      }
+    },
+    {
       "displayName": "Terno",
       "id": "terno-4ccde8",
       "locationSet": {"include": ["sk"]},
@@ -8715,8 +8804,10 @@
     },
     {
       "displayName": "Tesco Extra",
-      "id": "tescoextra-1e2c58",
-      "locationSet": {"include": ["150", "my"]},
+      "id": "tescoextra-66affc",
+      "locationSet": {
+        "include": ["cz", "gb", "hu", "ie", "sk"]
+      },
       "tags": {
         "brand": "Tesco Extra",
         "brand:wikidata": "Q25172225",
@@ -8989,6 +9080,18 @@
       }
     },
     {
+      "displayName": "Torba",
+      "id": "torba-94881c",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": ["торба"],
+      "tags": {
+        "brand": "Torba",
+        "brand:wikidata": "Q140402744",
+        "name": "Torba",
+        "shop": "supermarket"
+      }
+    },
+    {
       "displayName": "Tottus",
       "id": "tottus-b9e971",
       "locationSet": {"include": ["cl", "pe"]},
@@ -9101,6 +9204,7 @@
       "locationSet": {"include": ["es"]},
       "tags": {
         "brand": "Unide",
+        "brand:wikidata": "Q126737030",
         "name": "Unide",
         "shop": "supermarket"
       }
@@ -13270,54 +13374,6 @@
       }
     },
     {
-      "displayName": "家樂福",
-      "id": "carrefour-14223e",
-      "locationSet": {"include": ["tw"]},
-      "tags": {
-        "brand": "家樂福",
-        "brand:en": "Carrefour",
-        "brand:nan": "Ka-lo̍k-hok",
-        "brand:nan-Hant": "家樂福",
-        "brand:nan-Latn-pehoeji": "Ka-lo̍k-hok",
-        "brand:nan-Latn-tailo": "Ka-lo̍k-hok",
-        "brand:wikidata": "Q136774386",
-        "brand:zh": "家樂福",
-        "name": "家樂福",
-        "name:en": "Carrefour",
-        "name:nan": "Ka-lo̍k-hok",
-        "name:nan-Hant": "家樂福",
-        "name:nan-Latn-pehoeji": "Ka-lo̍k-hok",
-        "name:nan-Latn-tailo": "Ka-lo̍k-hok",
-        "name:zh": "家樂福",
-        "shop": "supermarket"
-      }
-    },
-    {
-      "displayName": "家樂福超市",
-      "id": "carrefourmarket-14223e",
-      "locationSet": {"include": ["tw"]},
-      "matchNames": ["頂好", "頂好超市"],
-      "matchTags": ["shop/convenience"],
-      "tags": {
-        "brand": "家樂福超市",
-        "brand:en": "Carrefour Market",
-        "brand:nan": "Ka-lo̍k-hok Chhiau-chhī",
-        "brand:nan-Hant": "家樂福超市",
-        "brand:nan-Latn-pehoeji": "Ka-lo̍k-hok Chhiau-chhī",
-        "brand:nan-Latn-tailo": "Ka-lo̍k-hok Tshiau-tshī",
-        "brand:wikidata": "Q136774386",
-        "brand:zh": "家樂福超市",
-        "name": "家樂福超市",
-        "name:en": "Carrefour Market",
-        "name:nan": "Ka-lo̍k-hok Chhiau-chhī",
-        "name:nan-Hant": "家樂福超市",
-        "name:nan-Latn-pehoeji": "Ka-lo̍k-hok Chhiau-chhī",
-        "name:nan-Latn-tailo": "Ka-lo̍k-hok Tshiau-tshī",
-        "name:zh": "家樂福超市",
-        "shop": "supermarket"
-      }
-    },
-    {
       "displayName": "平和堂",
       "id": "heiwado-2e84c0",
       "locationSet": {
@@ -13478,6 +13534,41 @@
         "name:en": "Gyomu Super",
         "name:ja": "業務スーパー",
         "name:ja-Latn": "Gyōmu sūpā",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "樂家康",
+      "id": "uniprosperity-14223e",
+      "locationSet": {"include": ["tw"]},
+      "matchNames": [
+        "carrefour market",
+        "家樂福便利購",
+        "家樂福超市",
+        "頂好",
+        "頂好超市"
+      ],
+      "matchTags": ["shop/convenience"],
+      "tags": {
+        "brand": "樂家康",
+        "brand:en": "Uni-Prosperity",
+        "brand:nan": "Lo̍k-ka-khng",
+        "brand:nan-Hant": "樂家康",
+        "brand:nan-Latn-pehoeji": "Lo̍k-ka-khng",
+        "brand:nan-Latn-tailo": "Lo̍k-ka-kang",
+        "brand:wikidata": "Q140398878",
+        "brand:zh": "樂家康",
+        "name": "樂家康",
+        "name:en": "Uni-Prosperity",
+        "name:nan": "Lo̍k-ka-khng",
+        "name:nan-Hant": "樂家康",
+        "name:nan-Latn-pehoeji": "Lo̍k-ka-khng",
+        "name:nan-Latn-tailo": "Lo̍k-ka-kang",
+        "name:zh": "樂家康",
+        "operator": "康達盛通生活",
+        "operator:en": "Uni-Prosperity Lifestyle",
+        "operator:wikidata": "Q140398991",
+        "operator:zh": "康達盛通生活",
         "shop": "supermarket"
       }
     },
@@ -13661,6 +13752,39 @@
         "name": "相鉄ローゼン",
         "name:en": "Sotetsu Rosen",
         "name:ja": "相鉄ローゼン",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "萬家福",
+      "id": "prosperityplaza-14223e",
+      "locationSet": {"include": ["tw"]},
+      "matchNames": [
+        "carrefour",
+        "台灣家樂福",
+        "家樂福",
+        "家樂福量販店"
+      ],
+      "tags": {
+        "brand": "萬家福",
+        "brand:en": "Prosperity Plaza",
+        "brand:nan": "Bān-ka-hok",
+        "brand:nan-Hant": "萬家福",
+        "brand:nan-Latn-pehoeji": "Bān-ka-hok",
+        "brand:nan-Latn-tailo": "Bhuêng-ka-hok",
+        "brand:wikidata": "Q136774386",
+        "brand:zh": "萬家福",
+        "name": "萬家福",
+        "name:en": "Prosperity Plaza",
+        "name:nan": "Bān-ka-hok",
+        "name:nan-Hant": "萬家福",
+        "name:nan-Latn-pehoeji": "Bān-ka-hok",
+        "name:nan-Latn-tailo": "Bhuêng-ka-hok",
+        "name:zh": "萬家福",
+        "operator": "康達盛通生活",
+        "operator:en": "Uni-Prosperity Lifestyle",
+        "operator:wikidata": "Q140398991",
+        "operator:zh": "康達盛通生活",
         "shop": "supermarket"
       }
     },

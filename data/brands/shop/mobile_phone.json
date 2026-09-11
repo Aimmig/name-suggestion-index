@@ -325,6 +325,17 @@
       }
     },
     {
+      "displayName": "hi",
+      "id": "hi-b9f0e7",
+      "locationSet": {"include": ["002"]},
+      "tags": {
+        "brand": "hi",
+        "brand:wikidata": "Q116431177",
+        "name": "hi",
+        "shop": "mobile_phone"
+      }
+    },
+    {
       "displayName": "Huawei",
       "id": "huawei-667935",
       "locationSet": {
@@ -521,6 +532,28 @@
         "brand": "Movistar",
         "brand:wikidata": "Q967735",
         "name": "Movistar",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "displayName": "Mr Price Cellular",
+      "id": "mrpricecellular-16619e",
+      "locationSet": {
+        "include": [
+          "bw",
+          "gh",
+          "ke",
+          "ls",
+          "na",
+          "sz",
+          "za",
+          "zm"
+        ]
+      },
+      "tags": {
+        "brand": "Mr Price Cellular",
+        "brand:wikidata": "Q6929120",
+        "name": "Mr Price Cellular",
         "shop": "mobile_phone"
       }
     },
@@ -775,6 +808,19 @@
         "brand": "Safaricom",
         "brand:wikidata": "Q7398410",
         "name": "Safaricom",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "displayName": "Save",
+      "id": "save-f6fe9a",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Save",
+        "brand:wikidata": "Q121289450",
+        "mobile_phone:repair": "yes",
+        "name": "Save",
+        "second_hand": "yes",
         "shop": "mobile_phone"
       }
     },
@@ -1316,6 +1362,17 @@
         "brand": "Vodacom Tanzania",
         "brand:wikidata": "Q7939274",
         "name": "Vodacom",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "displayName": "Vodacom 4U (South Africa)",
+      "id": "vodacom4u-43981d",
+      "locationSet": {"include": ["za"]},
+      "tags": {
+        "brand": "Vodacom",
+        "brand:wikidata": "Q1856518",
+        "name": "Vodacom 4U",
         "shop": "mobile_phone"
       }
     },

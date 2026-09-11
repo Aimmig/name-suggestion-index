@@ -89,6 +89,20 @@
       }
     },
     {
+      "displayName": "Land Transport Authority",
+      "id": "landtransportauthority-a99ece",
+      "locationSet": {"include": ["sg"]},
+      "tags": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "fee": "no",
+        "operator": "Land Transport Authority",
+        "operator:short": "LTA",
+        "operator:type": "government",
+        "operator:wikidata": "Q3299279"
+      }
+    },
+    {
       "displayName": "RTD Bike-n-Ride",
       "id": "regionaltransportationdistrict-8adeca",
       "locationSet": {
@@ -131,6 +145,17 @@
         "operator": "TriMet",
         "operator:type": "public",
         "operator:wikidata": "Q1766623"
+      }
+    },
+    {
+      "displayName": "U-stal",
+      "id": "ustal-f91dd2",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "amenity": "bicycle_parking",
+        "operator": "U-stal",
+        "operator:type": "private",
+        "operator:wikidata": "Q116789985"
       }
     },
     {

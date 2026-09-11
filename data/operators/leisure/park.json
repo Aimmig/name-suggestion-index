@@ -2049,6 +2049,23 @@
       }
     },
     {
+      "displayName": "City of Gold Coast",
+      "id": "cityofgoldcoast-f88a26",
+      "locationSet": {
+        "include": ["au-qld.geojson"]
+      },
+      "matchNames": [
+        "gccc",
+        "gold coast city council"
+      ],
+      "tags": {
+        "leisure": "park",
+        "operator": "City of Gold Coast",
+        "operator:type": "government",
+        "operator:wikidata": "Q30267253"
+      }
+    },
+    {
       "displayName": "City of Goodyear",
       "id": "cityofgoodyear-1fe561",
       "locationSet": {
@@ -3322,7 +3339,7 @@
         "leisure": "park",
         "operator": "City of Ryde",
         "operator:type": "government",
-        "operator:wikidata": "Q1006309"
+        "operator:wikidata": "Q56477522"
       }
     },
     {
@@ -3570,7 +3587,7 @@
         "leisure": "park",
         "operator": "City of Sydney",
         "operator:type": "government",
-        "operator:wikidata": "Q1094194"
+        "operator:wikidata": "Q56477532"
       }
     },
     {
@@ -4749,20 +4766,6 @@
       }
     },
     {
-      "displayName": "Gold Coast City Council",
-      "id": "goldcoastcitycouncil-f88a26",
-      "locationSet": {
-        "include": ["au-qld.geojson"]
-      },
-      "tags": {
-        "leisure": "park",
-        "operator": "Gold Coast City Council",
-        "operator:short": "GCCC",
-        "operator:type": "government",
-        "operator:wikidata": "Q30267253"
-      }
-    },
-    {
       "displayName": "Goshen Parks & Recreation Department",
       "id": "goshenparksandrecreationdepartment-86dc7f",
       "locationSet": {
@@ -5627,7 +5630,7 @@
         "leisure": "park",
         "operator": "Lismore City Council",
         "operator:type": "government",
-        "operator:wikidata": "Q753599"
+        "operator:wikidata": "Q116847658"
       }
     },
     {
@@ -6782,6 +6785,42 @@
         "operator": "Northern Beaches Council",
         "operator:type": "government",
         "operator:wikidata": "Q56477644"
+      }
+    },
+    {
+      "displayName": "Mosman Council",
+      "locationSet": {
+        "include": ["au-nsw.geojson"]
+      },
+      "tags": {
+        "leisure": "park",
+        "operator": "Mosman Council",
+        "operator:type": "government",
+        "operator:wikidata": "Q56477569"
+      }
+    },
+    {
+      "displayName": "Ku-ring-gai Council",
+      "locationSet": {
+        "include": ["au-nsw.geojson"]
+      },
+      "tags": {
+        "leisure": "park",
+        "operator": "Ku-ring-gai Council",
+        "operator:type": "government",
+        "operator:wikidata": "Q56477579"
+      }
+    },
+    {
+      "displayName": "North Sydney Council",
+      "locationSet": {
+        "include": ["au-nsw.geojson"]
+      },
+      "tags": {
+        "leisure": "park",
+        "operator": "North Sydney Council",
+        "operator:type": "government",
+        "operator:wikidata": "Q56477552"
       }
     },
     {
@@ -8876,7 +8915,7 @@
         "leisure": "park",
         "operator": "Willoughby City Council",
         "operator:type": "government",
-        "operator:wikidata": "Q634933"
+        "operator:wikidata": "Q56477608"
       }
     },
     {

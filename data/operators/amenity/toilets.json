@@ -732,8 +732,21 @@
     },
     {
       "displayName": "Kaufland",
-      "id": "kaufland-48c608",
-      "locationSet": {"include": ["001"]},
+      "id": "kaufland-2dc925",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["bg"]
+      },
+      "tags": {
+        "amenity": "toilets",
+        "operator": "Kaufland",
+        "operator:wikidata": "Q685967"
+      }
+    },
+    {
+      "displayName": "Kaufland (България)",
+      "id": "kaufland-6467ab",
+      "locationSet": {"include": ["bg"]},
       "tags": {
         "amenity": "toilets",
         "operator": "Kaufland",
@@ -792,6 +805,33 @@
         "operator": "Leisure and Cultural Services Department",
         "operator:short": "LCSD",
         "operator:wikidata": "Q2353346"
+      }
+    },
+    {
+      "displayName": "Lidl",
+      "id": "lidl-6467ab",
+      "locationSet": {"include": ["bg"]},
+      "tags": {
+        "amenity": "toilets",
+        "operator": "Lidl",
+        "operator:wikidata": "Q108169047"
+      }
+    },
+    {
+      "displayName": "London Borough of Richmond upon Thames",
+      "id": "londonboroughofrichmonduponthames-a1f30d",
+      "locationSet": {
+        "include": ["gb-lon.geojson"]
+      },
+      "matchNames": [
+        "london borough of richmond upon thames council"
+      ],
+      "tags": {
+        "amenity": "toilets",
+        "operator": "London Borough of Richmond upon Thames",
+        "operator:short": "LBRUT",
+        "operator:type": "government",
+        "operator:wikidata": "Q32515"
       }
     },
     {
@@ -2076,6 +2116,17 @@
         "amenity": "toilets",
         "operator": "Татнефть",
         "operator:wikidata": "Q1616858"
+      }
+    },
+    {
+      "displayName": "Фантастико",
+      "id": "b9a0c5-6467ab",
+      "locationSet": {"include": ["bg"]},
+      "matchNames": ["fantastico"],
+      "tags": {
+        "amenity": "toilets",
+        "operator": "Фантастико",
+        "operator:wikidata": "Q61140834"
       }
     },
     {

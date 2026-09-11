@@ -162,6 +162,17 @@
       }
     },
     {
+      "displayName": "C'est deux euros",
+      "id": "cestdeuxeuros-efe747",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "C'est deux euros",
+        "brand:wikidata": "Q141181414",
+        "name": "C'est deux euros",
+        "shop": "variety_store"
+      }
+    },
+    {
       "displayName": "Centershop",
       "id": "centershop-9f9d31",
       "locationSet": {"include": ["de"]},
@@ -816,6 +827,17 @@
       }
     },
     {
+      "displayName": "QD Stores",
+      "id": "qdstores-622078",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "QD Stores",
+        "brand:wikidata": "Q22101973",
+        "name": "QD Stores",
+        "shop": "variety_store"
+      }
+    },
+    {
       "displayName": "Red Apple",
       "id": "redapple-f36c63",
       "locationSet": {"include": ["ca"]},
@@ -858,6 +880,17 @@
         "brand": "Shiploads",
         "brand:wikidata": "Q105883436",
         "name": "Shiploads",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "Sqrups",
+      "id": "sqrups-643a1b",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "brand": "Sqrups",
+        "brand:wikidata": "Q135914246",
+        "name": "Sqrups",
         "shop": "variety_store"
       }
     },
@@ -999,6 +1032,17 @@
         "brand": "Thomas Philipps Sonderposten",
         "brand:wikidata": "Q1424735",
         "name": "Thomas Philipps Sonderposten",
+        "shop": "variety_store"
+      }
+    },
+    {
+      "displayName": "TJ Hughes",
+      "id": "tjhughes-622078",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "brand": "TJ Hughes",
+        "brand:wikidata": "Q7672651",
+        "name": "TJ Hughes",
         "shop": "variety_store"
       }
     },
